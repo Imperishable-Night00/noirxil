@@ -1,9 +1,4 @@
-:3 Hi, I’m Deep/Noir/Cyrn0z
-- * Mbti : INFJ
-- ! Birthday : April 12th
-- < Pronouns: She/They/He
-- < I'm Pansexual .🧷
-- ─── ⋆⋅☆⋅⋆ ──
+
 
 <!---
 noirxil/noirxil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
